@@ -1,5 +1,7 @@
 ### Hola, me llamo Javi Llinares, y soy Full Stack Junior Dev 👋
 
+[![](https://i.imgur.com/EiGOgx4.jpg)](https://i.imgur.com/EiGOgx4.jpg)
+
 Estas son algunas de las cosas que pueden interesaros:
 
 - 🔭 Actualmente trabajo en Cwellt Software, una empresa de desarrollo de software en mi ciudad natal, A Coruña.
