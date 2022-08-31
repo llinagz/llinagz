@@ -14,6 +14,13 @@ Estas son algunas de las cosas que pueden interesaros:
 - 😄 Tengo una página web personal y un blog, puedes visitarlos aquí: [javierllinares.eu](https://javierllinares.eu/) y [vidaentredosmundos.com](https://vidaentredosmundos.com/).
 - ⚡ Me encanta aprender, compartir lo que sé y soy un culturófago empedernido.
 
+## Tecnologías:
+[![Xamarin](https://img.shields.io/badge/Xamarin-3498DB?style=for-the-badge&logo=xamarin&logoColor=white)]()
+[![C#](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white)]()
+[![Javascript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)]()
+[![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)]()
+[![Visual Studio Code](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)]()
+
 ## Puedes encontrarme en:
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Javi_Llinares-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=101010)](https://www.linkedin.com/in/javierllinaresbarral/)
