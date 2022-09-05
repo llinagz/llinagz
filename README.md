@@ -7,7 +7,7 @@ Estas son algunas de las cosas que pueden interesaros:
 
 - 🔭 Actualmente trabajo en Cwellt Software, una empresa de desarrollo de software en mi ciudad natal, A Coruña.
 - 🌱 En mi empresa desarrollamos en .NET, Typescript y React.
-- 📚 Soy Licenciado en Historia y he trabajado como Modelador 3D, Grafista y Diseñador de páginas web con Wordpress.
+- 📚 Soy Licenciado en Historia y Técnico Superior en 3D y Desarrollador de Aplicaciones Web. He trabajado como Modelador 3D, Grafista y Diseñador de páginas web.
 - 🖥 Acabé en el mundo de la programación porque creo firmemente que tiene el poder de cambiar el mundo y ayudar a muchas personas. Realicé el ciclo superior de Desarrollo de Aplicaciones Web.
 - 💡 Me mantengo en constante aprendizaje. En mi empresa trabajo con .NET y Xamarin.Forms, pero estoy formándome paralelamente en PERNN Stack.
 - 📫 Puedes contactarme en javierllinaresbarral@outlook.com 
