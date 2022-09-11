@@ -21,6 +21,9 @@ Estas son algunas de las cosas que pueden interesaros:
 [![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)]()
 [![Visual Studio Code](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)]()
 
+## Mis estadísticas:
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=llinagz&show_icons=true&theme=city_lights)](https://github.com/anuraghazra/github-readme-stats)
+
 ## Puedes encontrarme en:
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Javi_Llinares-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=101010)](https://www.linkedin.com/in/javierllinaresbarral/)
