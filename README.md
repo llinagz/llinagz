@@ -5,7 +5,7 @@
 
 Estas son algunas de las cosas que pueden interesaros:
 
-- 🔭 Actualmente trabajo cómo desarrollador de software junior desde Vigo con .NET y React.
+- 🔭 Actualmente trabajo cómo desarrollador de software junior desde Vigo con .NET, JS y React. Me he especializado en el stack PERNN.
 - 📚 Soy Licenciado en Historia y Técnico Superior en 3D y Desarrollador de Aplicaciones Web. He trabajado como Modelador 3D, Grafista y Diseñador de páginas web.
 - 🖥 Acabé en el mundo de la programación porque creo firmemente que tiene el poder de cambiar el mundo y ayudar a muchas personas. Realicé el ciclo superior de Desarrollo de Aplicaciones Web.
 - 💡 Me mantengo en constante aprendizaje. Actualmente estoy ampliando mi portfolio con proyectos en el PERNN Stack.
