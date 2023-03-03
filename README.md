@@ -20,7 +20,7 @@ Estas son algunas de las cosas que pueden interesaros:
 [![C#](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white)]()
 [![Xamarin](https://img.shields.io/badge/Xamarin-3498DB?style=for-the-badge&logo=xamarin&logoColor=white)]()
 [![Visual Studio Code](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)]()
-[![Visual Studio]([https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white](https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visual%20studio&logoColor=white))]()
+[![Visual Studio](https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visual%20studio&logoColor=white)]()
 
 ## Mis estadísticas:
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=llinagz&show_icons=true&theme=city_lights)](https://github.com/anuraghazra/github-readme-stats)
