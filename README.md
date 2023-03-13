@@ -1,5 +1,5 @@
 # Hola, mi nombre es Javi Llinares
-### Y soy Full Stack Junior Dev 👋
+### Y soy Full Stack Dev 👋
 
 [![](https://i.imgur.com/EiGOgx4.jpg)](https://i.imgur.com/EiGOgx4.jpg)
 
