@@ -5,7 +5,7 @@
 
 Estas son algunas de las cosas que pueden interesaros:
 
-- 🔭 Actualmente trabajo cómo desarrollador de software desde Vigo con tecnologías de backend (.NET y PHP), y de front con frameworks de Javascript (React).
+- 🔭 Desarrollador de software desde Vigo con experiencia en .NET. También me encanta aprender tecnologías de Frontend.
 - 📚 Soy Licenciado en Historia, Técnico Superior en 3D y Técnico Superior en Desarrollo de Aplicaciones Web. He trabajado como Modelador 3D, Grafista y Diseñador de páginas web.
 - 🖥 Acabé en el mundo de la programación porque creo firmemente que tiene el poder de cambiar el mundo y ayudar a muchas personas. Realicé el ciclo superior de Desarrollo de Aplicaciones Web.
 - 💡 Me mantengo en constante aprendizaje. Actualmente estoy ampliando mi portfolio con proyectos en el PERNN Stack.
