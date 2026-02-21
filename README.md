@@ -31,7 +31,6 @@ Estas son algunas de las cosas que pueden interesaros:
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Javi_Llinares-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=101010)](https://www.linkedin.com/in/javierllinaresbarral/)
 [![Web](https://img.shields.io/badge/Web-JavierLlinares.eu-14a1f0?style=for-the-badge&logo=dev.to&logoColor=white&labelColor=101010)](https://javierllinares.eu/)
-[![Twitter](https://img.shields.io/badge/Twitter-@llina_gz-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white&labelColor=101010)](https://twitter.com/llina_gz)
 
 
 
