@@ -27,7 +27,7 @@ Estas son algunas de las cosas que pueden interesaros:
 ## Puedes encontrarme en:
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Javi_Llinares-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=101010)](https://www.linkedin.com/in/javierllinaresbarral/)
-[![Web](https://img.shields.io/badge/Web-JavierLlinares.eu-14a1f0?style=for-the-badge&logo=dev.to&logoColor=white&labelColor=101010)](https://javierllinares.eu/)
+[![Web](https://img.shields.io/badge/Web-JavierLlinares.eu-14a1f0?style=for-the-badge&logo=dev.to&logoColor=white&labelColor=101010)](https://javillinares.vercel.app/)
 
 
 
