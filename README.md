@@ -10,7 +10,7 @@ Estas son algunas de las cosas que pueden interesaros:
 - 🖥 Acabé en el mundo de la programación porque creo firmemente que tiene el poder de cambiar el mundo y ayudar a muchas personas.
 - 💡 Me mantengo en constante aprendizaje. Me adapto con facilidad a nuevos lenguajes y entornos porque priorizo siempre los conceptos fundamentales de la programación. Para mí, los lenguajes son solo herramientas al servicio de una buena solución.
 - 📫 Puedes contactarme en javierllinaresbarral@outlook.com 
-- 😄 Tengo una página web personal y una newsletter en Substack, puedes visitarlos aquí: [javillinares.vercel.app](https://javillinares.vercel.app/) y [vidaentredosmundos.substack.com](https://vidaentredosmundos.substack.com/).
+- 😄 Tengo una página web personal y una newsletter en Substack, puedes visitarlos aquí: [javillinares.eu](https://javierllinares.eu/) y [vidaentredosmundos.substack.com](https://vidaentredosmundos.substack.com/).
 - ⚡ Me encanta aprender, compartir lo que sé y soy un culturófago empedernido.
 
 ## Tecnologías:
